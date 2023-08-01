@@ -2145,7 +2145,7 @@ void adaboutus()
 {
     system("CLS");
     cout<<" \t\t\t\t              WE ARE TEAM POWER RANGER CODER "<<endl;
-    cout<<"\n \t\t\t\t              PEOPLE BEHIND ON THIS C PROJECT :\n\n\n \t\t\t\t\t\t 1.SAIFUL ISLAM EMON\n\n \t\t\t\t\t\t 2.AMENA AKTER\n\n \t\t\t\t\t\t 3.SUMIYA TASMIM OMI\n\n \t\t\t\t\t\t 4.NADIA SULTANA LAMIA\n\n \t\t\t\t\t\t 5.JANATUL FERDOUSI "<<endl;
+    cout<<"\n \t\t\t\t              PEOPLE BEHIND ON THIS C PROJECT :\n\n\n \t\t\t\t\t\t 1.SAIFUL ISLAM EMON\n\n \t\t\t\t\t\t 2.AMENA AKTER\n\n "<<endl;
 
     cout<<"\n \t\t\t\t *****************************THANK YOU*****************************"<<endl<<endl;
     cout<<"\n                                Press Any Key To Go Back.";
