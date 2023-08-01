@@ -1,0 +1,80 @@
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Micro-00005 |
+     |  Vehicle Type      :  MICRO       |
+     |  Number Of Vehicle :  5           |
+     |  Amount            :  3750         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  22:34:19    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Micro-00005 |
+     |  Vehicle Type      :  MICRO       |
+     |  Number Of Vehicle :  3           |
+     |  Amount            :  2250         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:20:03    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Micro-00005 |
+     |  Vehicle Type      :  MICRO       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  2600         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  02:04:00    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Micro-00005 |
+     |  Vehicle Type      :  MICRO       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  2600         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  02:04:00    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Micro-00005 |
+     |  Vehicle Type      :  MICRO       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  2600 TK      |
+     |  Date              :  Oct 27 2022 |
+     |  Time              :  01:30:32    |
+     *************************************
+
+

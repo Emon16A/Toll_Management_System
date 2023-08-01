@@ -1,0 +1,176 @@
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2          |
+     |  Amount            :  4000          |
+     |  Date              :  Oct  3 2022|
+     |  Time              :  15:55:28    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  3          |
+     |  Amount            :  8325          |
+     |  Date              :  Oct  3 2022|
+     |  Time              :  15:57:02    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  5           |
+     |  Amount            :  0         |
+     |  Date              :  Oct  7 2022 |
+     |  Time              :  01:22:41    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  0         |
+     |  Date              :  Oct  7 2022 |
+     |  Time              :  01:22:41    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  0         |
+     |  Date              :  Oct  7 2022 |
+     |  Time              :  01:25:44    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  5550         |
+     |  Date              :  Oct  7 2022 |
+     |  Time              :  01:32:57    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  5550         |
+     |  Date              :  Oct 12 2022 |
+     |  Time              :  23:12:17    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  5550         |
+     |  Date              :  Oct 12 2022 |
+     |  Time              :  23:13:34    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  5600         |
+     |  Date              :  Oct 13 2022 |
+     |  Time              :  01:56:57    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  5600         |
+     |  Date              :  Oct 13 2022 |
+     |  Time              :  02:04:00    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Truck-00002 |
+     |  Vehicle Type      :  TRUCK       |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  5600 TK     |
+     |  Date              :  Oct 27 2022 |
+     |  Time              :  01:30:32    |
+     *************************************
+
+

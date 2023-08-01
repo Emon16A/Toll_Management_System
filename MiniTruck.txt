@@ -1,0 +1,96 @@
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  MTruck-00003|
+     |  Vehicle Type      :  MINI TRUCK  |
+     |  Number Of Vehicle :  3           |
+     |  Amount            :  4860         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:28:25    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  MTruck-00003|
+     |  Vehicle Type      :  MINI TRUCK  |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  3240         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  00:20:00    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  MTruck-00003|
+     |  Vehicle Type      :  MINI TRUCK  |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  3200         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  02:04:00    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  MTruck-00003|
+     |  Vehicle Type      :  MINI TRUCK  |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  3200        |
+     |  Date              :  Oct 13 2022 |
+     |  Time              :  12:11:56    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  MTruck-00003|
+     |  Vehicle Type      :  MINI TRUCK  |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  3200 TK     |
+     |  Date              :  Oct 27 2022 |
+     |  Time              :  01:30:32    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  MTruck-00003|
+     |  Vehicle Type      :  MINI TRUCK  |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  3200 TK     |
+     |  Date              :  Nov  7 2022 |
+     |  Time              :  12:03:05    |
+     *************************************
+
+

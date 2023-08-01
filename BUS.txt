@@ -1,0 +1,292 @@
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct  7 2022|
+     |  Time              :  00:53:38    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  22:34:19    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  22:41:29    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:19:05    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:20:03    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:31:24    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:32:50    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:38:11    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:39:53    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:45:56    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:53:09    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  02:04:00    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000        |
+     |  Date              :  Oct 27 2022 |
+     |  Time              :  01:12:58    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000 TK     |
+     |  Date              :  Oct 27 2022 |
+     |  Time              :  01:30:32    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Bus Reg. Number   :      |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000 TK     |
+     |  Date              :  Nov  7 2022 |
+     |  Time              :  22:42:03    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Bus Reg. Number   :      |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  1           |
+     |  Amount            :  2000 TK     |
+     |  Date              :  Nov  7 2022 |
+     |  Time              :  22:52:11    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Bus Reg. Number   :      |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000 TK     |
+     |  Date              :  Nov  7 2022 |
+     |  Time              :  22:52:11    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bus-00001   |
+     |  Bus Reg. Number   :  `   |
+     |  Vehicle Type      :  BUS         |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  4000 TK     |
+     |  Date              :  Nov  7 2022 |
+     |  Time              :  22:57:06    |
+     *************************************
+
+

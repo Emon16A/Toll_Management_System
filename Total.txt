@@ -1,0 +1,50 @@
+						BIKE            : 200 TK 
+
+						PRIVATE CAR     : 1500 TK 
+
+						BUS             : 4000 TK
+
+						MICRO           : 2600 TK 
+
+						Mini Truck      : 3200 TK
+
+						Truck           : 5600 TK 
+
+						Mini Truck      : 3200 TK 
+
+						BUS             : 4000 TK
+
+						BUS             : 2000 TK
+
+						BUS             : 4000 TK
+
+						BUS             : 4000 TK
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 100 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						BIKE            : 200 TK 
+
+						PRIVATE CAR     : 750 TK 
+
+						PRIVATE CAR     : 1500 TK 
+
+						BIKE            : 100 TK 
+

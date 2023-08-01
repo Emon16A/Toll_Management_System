@@ -1,0 +1,290 @@
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct  7 2022|
+     |  Time              :  00:53:38    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct  7 2022|
+     |  Time              :  01:20:37    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  22:29:07    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  22:37:44    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  22:37:44    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  22:41:29    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:07:15    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:09:19    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:39:53    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  3           |
+     |  Amount            :  2250         |
+     |  Date              :  Oct 12 2022|
+     |  Time              :  23:45:56    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  00:18:43    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  00:26:45    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  00:48:58    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 13 2022|
+     |  Time              :  02:04:00    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500         |
+     |  Date              :  Oct 27 2022 |
+     |  Time              :  01:12:58    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500 TK      |
+     |  Date              :  Oct 27 2022 |
+     |  Time              :  01:30:32    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  PRIVATE CAR Reg.No. :  `   |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  1           |
+     |  Amount            :  750 TK     |
+     |  Date              :  Nov 28 2022 |
+     |  Time              :  11:41:54    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  PCar-00004  |
+     |  PRIVATE CAR Reg.No. :  `   |
+     |  Vehicle Type      :  PRIVATE CAR |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  1500 TK     |
+     |  Date              :  Nov 28 2022 |
+     |  Time              :  11:41:54    |
+     *************************************
+
+
